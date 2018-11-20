@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.drupalday.pl"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalDay - Drupal 8 - darmowe szkolenia - Kraków</title>
+ <link>http://www.drupalday.pl/tags/krakow</link>
+ <description></description>
+ <language>pl</language>
+<item>
+ <title>Drupal Global Training Day - DrupalDay Kraków 2016-09-10</title>
+ <link>http://www.drupalday.pl/aktualnosci/drupal-global-training-day-drupalday-krakow-2016-09-10</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/screen_456.png?itok=6MEdcm6k&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/screen_456.png?itok=6MEdcm6k&quot; width=&quot;480&quot; height=&quot;224&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Znamy już miejsce kolejnej edycji DrupalDay. DrupalDay jest organizowany w ramach Global Training Days (&lt;a href=&quot;https://groups.drupal.org/global-training-days&quot; target=&quot;_blank&quot;&gt;https://groups.drupal.org/global-training-days&lt;/a&gt;). W dniach 9-10.09.2016 na całym świecie są organizowane szkolenia dotyczące systemu Drupal. Dokładny adres oraz zapisy na szkolenie w Krakowie dostępne są na stronie &quot;&lt;a href=&quot;/events&quot; target=&quot;_blank&quot;&gt;Wydarzenia&lt;/a&gt;&quot;.&lt;/p&gt;
+&lt;p&gt;Zachęcamy do promowania wydarzenia na profilach społecznościowych.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/krakow&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Kraków&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 30 Aug 2016 07:35:38 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">166 at http://www.drupalday.pl</guid>
+ <comments>http://www.drupalday.pl/aktualnosci/drupal-global-training-day-drupalday-krakow-2016-09-10#comments</comments>
+</item>
+</channel>
+</rss>

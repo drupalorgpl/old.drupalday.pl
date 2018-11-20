@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="pl" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head>
+<meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="221.html" />
+<link rel="shortlink" href="221.html" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="shortcut icon" href="http://www.drupalday.pl/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<title>Wrzesień 2017 - Wrocław | DrupalDay - Drupal 8 - darmowe szkolenia</title>
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_djpX14tzT9ad3S0Nx3DKGtqZlH2mWpIOybq7Kl2SISM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_Wu8npAzy16WmnnnWKxpexfgsAryolGGaX6yO3GWA5bU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_Q_oGl32RIHaY25SR4vcE3p6AbtpNfSHhOeNJ5aKHsXo.css" media="all" />
+<script type="text/javascript" src="../sites/default/files/js/js_ri60QNjcazMKdlAmWmDsmRb0iKaVkkXUQxH2MsgpmVo.js"></script>
+<script type="text/javascript" src="../sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script type="text/javascript" src="../sites/default/files/js/js_p7iFi0qEmP4zv32aqYTXammQ7PduzcU0Fx8cs3quViQ.js"></script>
+<script type="text/javascript" src="../sites/default/files/js/js_38dYfT5tBcNRDpGLvmZst3EvwIKHRrNMAUPl_CmZHoU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"drupalday","theme_token":"n6ApdYYvNI5nnqWcfR7-NFGi4Wfom3WOXzk5nF-gpCE","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/pl_sWcnwnm_haDd4dUSMfhxxhCfzjdQfsujZsHCaFwTNP0.js":1,"sites\/all\/themes\/nexus\/js\/bootstrap.min.js":1,"sites\/all\/themes\/nexus\/js\/superfish.js":1,"sites\/all\/themes\/nexus\/js\/mobilemenu.js":1,"sites\/all\/themes\/nexus\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.6.3\/css\/font-awesome.min.css":1,"sites\/all\/themes\/nexus\/css\/bootstrap.min.css":1,"sites\/all\/themes\/nexus\/css\/flexslider.css":1,"sites\/all\/themes\/nexus\/style.css":1,"sites\/all\/themes\/drupalday\/stylesheets\/styles.css":1}},"urlIsAjaxTrusted":{"\/aktualnosci\/wrzesien-2017-wroclaw?destination=node\/221":true}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="/sites/all/themes/nexus/js/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-221 node-type-article">
+    <div id="page">
+  <header id="masthead" class="site-header container" role="banner">
+    <div class="row">
+      <div id="logo" class="site-branding col-sm-4">
+        <div id="site-logo"><a href="../node.html" title="Strona główna">
+          <img src="../sites/default/files/logo.png" alt="Strona główna" />
+        </a></div>      </div>
+      <div class="col-sm-8 mainmenu">
+        <div class="mobilenavi"></div>
+        <nav id="navigation" role="navigation">
+          <div id="main-menu">
+            <ul class="menu"><li class="first leaf"><a href="../node.html" title="">Strona główna</a></li>
+<li class="leaf"><a href="73.html">O DrupalDay</a></li>
+<li class="leaf"><a href="../events.html" title="">Wydarzenia - zapisz się!</a></li>
+<li class="leaf"><a href="78.html">Do pobrania</a></li>
+<li class="leaf"><a href="86.html">Materiały do nauki</a></li>
+<li class="last leaf"><a href="70.html">Kontakt</a></li>
+</ul>          </div>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+
+  
+  
+  
+    <div id="main-content">
+    <div class="container"> 
+      <div class="row">
+                <div id="primary" class="content-area col-sm-8">
+          <section id="content" role="main" class="clearfix">
+            <div id="breadcrumbs"><h2 class="element-invisible">Jesteś tutaj</h2><nav class="breadcrumb"><a href="../node.html">Strona główna</a> » Wrzesień 2017 - Wrocław</nav></div>                                    <div id="content-wrap">
+                            <h1 class="page-title">Wrzesień 2017 - Wrocław</h1>                                                                      <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+                        <span property="dc:title" content="Wrzesień 2017 - Wrocław" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+              <ul class="meta clearfix">
+          <li><strong>Posted on:</strong> <span property="dc:date dc:created" content="2017-08-21T15:18:15+02:00" datatype="xsd:dateTime">21 August 2017</span></li>
+          <li><strong>By:</strong> <span rel="sioc:has_creator"><a href="../users/admin.html" title="Wyświetl profil użytkownika." class="username" xml:lang="" about="/users/admin" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</a></span></li>   
+        </ul>
+      
+    
+  <div class="content">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/wpt.jpg?itok=XpgOg2aA"><img typeof="foaf:Image" src="../sites/default/files/styles/large/public/field/image/wpt.jpg%3Fitok=XpgOg2aA" width="480" height="240" alt="" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div>
+	DupalDay wraca po przerwie wakacyjnej. Pierwsze szkolenie odbędzie się już 9.09.2017 we Wrocławiu. Szczegóły wydarzenia i zapisy dostępne są na stronie <strong><a href="http://wroclaw.drupalday.pl" target="_blank">http://wroclaw.drupalday.pl </a></strong></div>
+<div>
+	Niedługo podamy także informacje o kolejnych wydarzeniach, które od września będą obdywać się regularnie co miesiąc. </div>
+</div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="comment_forbidden first last"><span><a href="../user/login%3Fdestination=node%252F221%23comment-form.html">Zaloguj się</a> albo <a href="../user/register%3Fdestination=node%252F221%23comment-form.html">zarejestruj</a> aby dodać komentarz</span></li>
+</ul>    </footer>
+  
+    </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+            </div>
+          </section>
+        </div>
+                  <aside id="sidebar" class="col-sm-4" role="complementary">
+           <div class="region region-sidebar-first">
+  <div id="block-layout-layout-fresh-newsletter" class="block block-layout">
+
+        <h2 >Zapisz się na Newsletter</h2>
+    
+  <div class="content">
+    <h3 class="newsletter-desc">Otrzymuj informacje o warsztatach i konferencjach o Drupalu, a także o nowościach dla webdeveloperów na swoją skrzynkę e-mail</h3>
+      <form action="https://droptica.us16.list-manage.com/subscribe/post?u=c63fb0260bfff09477b088b96&amp;id=383701d569" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+        <div class="form-item form-type-textfield">
+          <label for="mailchimp">Nazwa<span class="form-required" title="To pole jest wymagane.">*</span></label>
+          <input type="text" id="newsletter_name" name="FNAME" required="required" class="form-text required">
+        </div>
+        <div class="form-item form-type-textfield">
+          <label for="mailchimp">Email<span class="form-required" title="To pole jest wymagane.">*</span></label>
+          <input type="email" id="newsletter_email" name="EMAIL" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,63}$" required="required" class="form-text required">
+        </div>
+        <div class="submit-wrapper form-actions form-wrapper">
+          <input type="submit" name="subscribe" value="Zapisz się" class="btn-drupalday">
+          </div>
+      </form>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-user-login" class="block block-user">
+
+        <h2 >Logowanie</h2>
+    
+  <div class="content">
+    <form action="http://www.drupalday.pl/aktualnosci/wrzesien-2017-wroclaw?destination=node/221" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Nazwa użytkownika <span class="form-required" title="To pole jest wymagane.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Hasło <span class="form-required" title="To pole jest wymagane.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="../user/register.html" title="Tworzy nowe konto użytkownika.">Utwórz nowe konto</a></li>
+<li class="last"><a href="../user/password.html" title="Uzyskaj nowe hasło przez e-mail.">Uzyskaj nowe hasło</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-hu4ycht-9Q-jyNaaLdECS46wuVndr2pU-sqBBmWBgs4" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Zaloguj" class="form-submit" /></div></div></form>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-boxes-facebook" class="block block-boxes block-boxes-simple">
+
+      
+  <div class="content">
+    <div id='boxes-box-facebook' class='boxes-box'><div class="boxes-box-content"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.7&appId=753297954732415";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-page" data-href="https://www.facebook.com/dropticagroup/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/dropticagroup/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/dropticagroup/">Droptica.pl</a></blockquote></div></div></div>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-boxes-acquia" class="block block-boxes block-boxes-simple">
+
+      
+  <div class="content">
+    <div id='boxes-box-acquia' class='boxes-box'><div class="boxes-box-content"><p>Drupal community hosting powered by <a href="https://www.acquia.com/products-services/acquia-cloud" target="_blank">Acquia Cloud</a></p>
+</div></div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+          </aside> 
+              </div>
+    </div>
+  </div>
+
+  
+      <div id="bottom">
+      <div class="container">
+        <div class="row">
+          <div class="footer-block col-sm-3">
+            <img src="../sites/all/themes/drupalday/images/logo.svg" />          </div>          <div class="footer-block col-sm-9 text-right">
+            <strong>Darmowe</strong> szkolenia DrupalDay są organizowane przez firmę <strong>Droptica Sp. z o.o.</strong><br/>Zobacz ofertę firmy na stronie <a href="http://www.droptica.pl" target="_blank">www.droptica.pl</a>          </div>        </div>
+      </div>
+    </div>
+  
+  <footer id="colophon" class="site-footer" role="contentinfo">
+    <div class="container">
+      <div class="row">
+        <div class="fcred col-sm-12">
+          <a href="191.html">Regulamin</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>   <!-- /.region -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b5ce5b5892","applicationID":"56776357","transactionName":"ZwFaYERXWEQDAEAKDV5LeVdCX1lZTQ1bBwdvFFlTU2lAXgcU","queueTime":0,"applicationTime":150,"atts":"S0ZZFgxNS0o=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

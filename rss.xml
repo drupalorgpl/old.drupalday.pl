@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.drupalday.pl"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalDay - Drupal 8 - darmowe szkolenia</title>
+ <link>http://www.drupalday.pl</link>
+ <description></description>
+ <language>pl</language>
+<item>
+ <title>Marzec 2018 - Gdańsk</title>
+ <link>http://www.drupalday.pl/aktualnosci/marzec-2018-gdansk</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Kolejna edycja darmowych warsztatów DrupalDay odbędzie się w Gdańsku w dniu 10.03.2018. Aktualnie ustalamy dokładną lokalizację. Niebawem podamy więcej szczegółów na stronie &lt;a href=&quot;http://gdansk.drupalday.pl/&quot;&gt;http://gdansk.drupalday.pl/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 09 Feb 2018 12:52:08 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">256 at http://www.drupalday.pl</guid>
+ <comments>http://www.drupalday.pl/aktualnosci/marzec-2018-gdansk#comments</comments>
+</item>
+<item>
+ <title>Luty 2018 - Wrocław</title>
+ <link>http://www.drupalday.pl/aktualnosci/luty-2018-wroclaw</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/wpt-zdjecia-budynki-delta11-e1486038726801-1.jpg?itok=_1Ly_39G&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/wpt-zdjecia-budynki-delta11-e1486038726801-1.jpg?itok=_1Ly_39G&quot; width=&quot;480&quot; height=&quot;278&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Ostatnie szkolenie DrupalDay we Wrocławiu odbyło się we wrześniu 2017 roku.&lt;br /&gt;
+Zapraszamy ponownie, z nowym programem wszystkich fanów Drupala do WPT przy ul. Duńskiej 9.&lt;br /&gt;
+Szczegóły wydarzenia i zapisy dostępne są na poniższych stronach.&lt;br /&gt;
+Wrocław 03-02-2018: &lt;a href=&quot;http://wroclaw.drupalday.pl&quot;&gt;http://wroclaw.drupalday.pl&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/drupal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/drupalday&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;drupalday&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 19 Jan 2018 07:50:54 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">251 at http://www.drupalday.pl</guid>
+ <comments>http://www.drupalday.pl/aktualnosci/luty-2018-wroclaw#comments</comments>
+</item>
+<item>
+ <title>Styczeń 2018 - Rzeszów i Poznań</title>
+ <link>http://www.drupalday.pl/aktualnosci/styczen-2018-rzeszow-i-poznan</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/1392328939_66_m.jpg?itok=BFKGgfpx&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/1392328939_66_m.jpg?itok=BFKGgfpx&quot; width=&quot;480&quot; height=&quot;248&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Nowy rok witamy z pełną mocą - już w styczniu ruszamy z kolejną edycją darmowego szkolenia DrupalDay. Podwójnie! Najpierw pojawimy się w Rzeszowie, a tydzień później w Poznaniu. Zapraszamy.&lt;/p&gt;
+&lt;p&gt;Szczegółowe informacje dotyczące szkolenia znajdziesz tutaj:&lt;br /&gt;
+13-01-2018 &lt;a href=&quot;http://rzeszow.drupalday.pl&quot;&gt;http://rzeszow.drupalday.pl&lt;/a&gt;&lt;br /&gt;
+20-01-2018 &lt;a href=&quot;http://poznan.drupalday.pl&quot;&gt;http://poznan.drupalday.pl&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/drupalday&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;drupalday&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/drupal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 02 Jan 2018 12:05:50 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">246 at http://www.drupalday.pl</guid>
+ <comments>http://www.drupalday.pl/aktualnosci/styczen-2018-rzeszow-i-poznan#comments</comments>
+</item>
+<item>
+ <title>Grudzień 2017 - Opole</title>
+ <link>http://www.drupalday.pl/aktualnosci/grudzien-2017-opole</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/opole_pan_08_08_11-01.jpg?itok=XzWIsPop&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/opole_pan_08_08_11-01.jpg?itok=XzWIsPop&quot; width=&quot;480&quot; height=&quot;233&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Ruszamy z nowym programem szkolenia DrupalDay! Kolejna edycja darmowych warsztatów z systemu Drupal 8 odbędzie się w dniu 16.12.2017  w Opolu. &lt;/p&gt;
+&lt;p&gt;Sprawdź szczegółowy program szkolenia i zapisz się na &lt;a href=&quot;http://opole.drupalday.pl&quot;&gt;http://opole.drupalday.pl&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/drupal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/szkolenie&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;szkolenie&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/opole&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Opole&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 30 Nov 2017 11:07:35 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">241 at http://www.drupalday.pl</guid>
+ <comments>http://www.drupalday.pl/aktualnosci/grudzien-2017-opole#comments</comments>
+</item>
+<item>
+ <title>Listopad 2017 - Opole (szkolenie zamknięte)</title>
+ <link>http://www.drupalday.pl/aktualnosci/listopad-2017-opole-szkolenie-zamkniete</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/politechnika_opolska.jpg?itok=9uGR6A4W&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/politechnika_opolska.jpg?itok=9uGR6A4W&quot; width=&quot;480&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;To nie koniec na ten miesiąc! Nie zwalniamy tempa. W ostatni weekend przeprowadziliśmy szkolenie DrupalDay w Katowicach i już szykujemy się na następne. W związku z dużym zainteresowaniem tematyką drupala w ten piątek odbędzie się szkolenie zamknięte dla ponad 40 studentów czwartego roku informatyki na Politechnice Opolskiej.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/drupalday&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;drupalday&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/opole&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Opole&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/drupal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 21 Nov 2017 10:03:23 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">236 at http://www.drupalday.pl</guid>
+ <comments>http://www.drupalday.pl/aktualnosci/listopad-2017-opole-szkolenie-zamkniete#comments</comments>
+</item>
+<item>
+ <title>Listopad 2017 - Katowice</title>
+ <link>http://www.drupalday.pl/aktualnosci/listopad-2017-katowice</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/gal6_1.jpg?itok=a9WApR89&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/gal6_1.jpg?itok=a9WApR89&quot; width=&quot;480&quot; height=&quot;320&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Kolejne spotkanie z Drupalem przed nami.&lt;br /&gt;
+Tym razem szkolenie odbędzie się 18.11.2017 w Katowicach.&lt;/p&gt;
+&lt;p&gt;Szczegóły oraz możliwość zapisu dostępne na &lt;a href=&quot;http://katowice.drupalday.pl&quot;&gt;http://katowice.drupalday.pl&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/drupal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/drupalday&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;drupalday&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/szkolenie&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;szkolenie&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 23 Oct 2017 08:39:16 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">231 at http://www.drupalday.pl</guid>
+ <comments>http://www.drupalday.pl/aktualnosci/listopad-2017-katowice#comments</comments>
+</item>
+<item>
+ <title>Październik 2017 - Gdańsk</title>
+ <link>http://www.drupalday.pl/aktualnosci/pazdziernik-2017-gdansk</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/pobrane.jpg?itok=8OVGOugf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/pobrane.jpg?itok=8OVGOugf&quot; width=&quot;480&quot; height=&quot;320&quot; alt=&quot;gdansk drupal&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Kolejne spotkanie z Drupalem przed nami.&lt;br /&gt;
+	Tym razem szkolenie odbędzie się &lt;strong&gt;14.10.2017 w Gdańsku&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Szczegóły oraz możliwość zapisu dostępne na &lt;a href=&quot;http://gdansk.drupalday.pl&quot;&gt;http://gdansk.drupalday.pl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/drupal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Drupal&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/szkolenie&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;szkolenie&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/drupalday&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;drupalday&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 25 Sep 2017 12:12:34 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">226 at http://www.drupalday.pl</guid>
+ <comments>http://www.drupalday.pl/aktualnosci/pazdziernik-2017-gdansk#comments</comments>
+</item>
+<item>
+ <title>Wrzesień 2017 - Wrocław</title>
+ <link>http://www.drupalday.pl/aktualnosci/wrzesien-2017-wroclaw</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/wpt.jpg?itok=XpgOg2aA&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/wpt.jpg?itok=XpgOg2aA&quot; width=&quot;480&quot; height=&quot;240&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;div&gt;
+	DupalDay wraca po przerwie wakacyjnej. Pierwsze szkolenie odbędzie się już 9.09.2017 we Wrocławiu. Szczegóły wydarzenia i zapisy dostępne są na stronie &lt;strong&gt;&lt;a href=&quot;http://wroclaw.drupalday.pl&quot; target=&quot;_blank&quot;&gt;http://wroclaw.drupalday.pl &lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;
+	Niedługo podamy także informacje o kolejnych wydarzeniach, które od września będą obdywać się regularnie co miesiąc. &lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 21 Aug 2017 13:18:15 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">221 at http://www.drupalday.pl</guid>
+ <comments>http://www.drupalday.pl/aktualnosci/wrzesien-2017-wroclaw#comments</comments>
+</item>
+<item>
+ <title>DrupalDay we Wrocławiu - 18.03.2017</title>
+ <link>http://www.drupalday.pl/aktualnosci/drupalday-we-wroclawiu-18032017</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/ibis1.jpg?itok=HyCSrdpF&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/ibis1.jpg?itok=HyCSrdpF&quot; width=&quot;480&quot; height=&quot;360&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Na podstawie Waszych głosów w ankiecie wybraliśmy kolejne miasto na organizację DrupalDay - Wrocław. Zapraszamy 18.03.2017 do hotelu Ibis Styles we Wrocławiu. Zapisać można się na stronie &lt;a href=&quot;http://www.drupalday.pl/events&quot;&gt;http://www.drupalday.pl/events&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 09 Feb 2017 06:50:07 +0000</pubDate>
+ <dc:creator>Grzegorz Bartman</dc:creator>
+ <guid isPermaLink="false">216 at http://www.drupalday.pl</guid>
+ <comments>http://www.drupalday.pl/aktualnosci/drupalday-we-wroclawiu-18032017#comments</comments>
+</item>
+<item>
+ <title>DrupalDay w marcu 2017 - wybieramy miejsce</title>
+ <link>http://www.drupalday.pl/aktualnosci/drupalday-w-marcu-2017-wybieramy-miejsce</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/survey-1594962_1920.jpg?itok=AVruv6Rt&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.drupalday.pl/sites/default/files/styles/large/public/field/image/survey-1594962_1920.jpg?itok=AVruv6Rt&quot; width=&quot;480&quot; height=&quot;320&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Na stronie &lt;a href=&quot;https://www.surveymonkey.com/r/JJNP3RC&quot; target=&quot;_blank&quot;&gt;https://www.surveymonkey.com/r/JJNP3RC&lt;/a&gt; dostępna jest ankieta dotycząca kolejnej edycji darmowego szkolenia DrupalDay. Szkolenie odbędzie się 18.03.2017 (sobota). Nie wiemy jeszcze w jakim mieście. W decyzji pomoże nam ankieta. Wszystkich zainteresowanych zapraszamy do wypełnienia ankiety.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 24 Jan 2017 06:18:05 +0000</pubDate>
+ <dc:creator>Grzegorz Bartman</dc:creator>
+ <guid isPermaLink="false">201 at http://www.drupalday.pl</guid>
+ <comments>http://www.drupalday.pl/aktualnosci/drupalday-w-marcu-2017-wybieramy-miejsce#comments</comments>
+</item>
+</channel>
+</rss>
